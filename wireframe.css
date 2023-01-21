@@ -1,0 +1,18 @@
+.logo{
+    width: 100px;
+}
+
+div{
+    text-align: center;
+    margin: 0 auto;
+}
+p{
+    background-color: #62d3e4;
+    min-height: 40vh;
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+    margin: 0 auto;
+}
