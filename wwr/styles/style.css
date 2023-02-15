@@ -29,20 +29,20 @@ main section {
     text-align: center;
 }
 body {
-    background-color: #547aa5;
+    background-color: #ffffff;
 }
 header {
     background-color:#3b7d52;
 }
 nav a:hover {
-    background-color: #0f4d92;
+    background-color: #ffffff;
 }
 .home title{
     background-color: black;
     color: #3b7d52;
 }
 h4{
-    background-color: black;
+    background-color: #3b7d52;
 }
 .book, .join{
     background-color: #547aa5;
@@ -55,19 +55,19 @@ h4{
     color: #0f4d92;
 }
 .msg h2{
-    background-color: black;
-    color: #0f4d92;
+    background-color: #547aa5;
+    color: #000000;
 }
 .msg p{
-    background-color: black;
-    color: #0f4d92;
+    background-color: #547aa5;
+    color: #000000;
 }
 footer{
-    background-color: black;
-    color: #3b7d52;
+    background-color: #547aa5;
+    color: #244731;
 }
 footer a{
-    background-color: black;
+    background-color: #547aa5;
     color: #547aa5;
     text-align: center;
     color: #fcfbfb;
@@ -75,7 +75,7 @@ footer a{
 }
 footer a:hover{
     background-color: black;
-    color: #0f4d92;
+    color: #ffffff;
 }
 .icon{
     width: 80px;
