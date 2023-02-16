@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Roboto&display=swap');
 #content {
     max-width: 1600px;
     margin: 0 auto;
@@ -37,9 +38,11 @@ header {
 nav a:hover {
     background-color: #ffffff;
 }
-.home title{
-    background-color: black;
-    color: #3b7d52;
+.home_title{
+    background-color: #3b7d52;
+    color: black;
+    font-family: 'amatic sc';
+    font-size: 50px;
 }
 h4{
     background-color: #3b7d52;
@@ -57,6 +60,8 @@ h4{
 .msg h2{
     background-color: #547aa5;
     color: #000000;
+    font-family: 'amatic sc';
+    font-size: 50px;
 }
 .msg p{
     background-color: #547aa5;
