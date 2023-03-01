@@ -1,0 +1,32 @@
+.contentbox {
+    width: 250px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 170px 270px 70px;
+}
+.content {
+    width: 100%;
+    grid-column: 1/4;
+    justify-content: center;
+}
+.middlecontent {
+    grid-column: 1/4;
+    grid-row: 2/3;
+}
+.bottomsection {
+    background-color: darkblue;
+    grid-column: 1/4;
+    grid-row: 3/4;
+}
+.read {
+    grid-column: 1/2;
+    justify-items: center;
+}
+.views {
+    grid-column: 2/3;
+    justify-items: center;
+}
+.comments {
+    grid-column: 3/4;
+    justify-items: center;
+}
